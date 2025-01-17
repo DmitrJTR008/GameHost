@@ -1,1 +1,4 @@
-{ "startingNumber": 5 }
+{
+    "startingNumber": 5,
+    "welcomeMessage": "Добро пожаловать в игру!"
+}
